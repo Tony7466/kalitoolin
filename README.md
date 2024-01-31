@@ -12,8 +12,8 @@ Automatically install all Kali linux tools
 - An operating system (tested on Ubuntu)
 
 # Installation
-- sudo git clone https://github.com/bitpIus/katoolin-v2.git
-- sudo python3 katoolin-v2/katoolin.py
+- sudo git clone https://github.com/Tony7466/kalitoolin.git
+- sudo python3 kalitoolin/katoolin.py
 
 # Usage
 - Typing the number of a tool will install it
